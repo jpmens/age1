@@ -3,7 +3,7 @@
 ### input
 
 ```yaml
-- hosts: alic3
+- hosts: alice
   vars:
       recipient: "age19q8pzgaxq2uynsrp3dluxv5apxmqym2pyldwpkp4s30qf4vfzqrsvvjzjv"
   tasks:
